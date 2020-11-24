@@ -106,7 +106,7 @@
     "lint-staged": "^7.2.0",
     "minify-all": "^1.2.2",
     "module-alias": "^2.1.0",
-    "openzeppelin-solidity": "^2.2",
+    "openzeppelin-solidity": "^2.5.1",
     "set-protocol-contract-utils": "^1.0.4",
     "set-protocol-oracles": "^1.0.16",
     "set-protocol-utils": "^1.1.2",
