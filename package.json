@@ -100,7 +100,7 @@
     "dotenv": "^6.2.0",
     "eth-gas-reporter": "^0.1.10",
     "ethlint": "^1.2.3",
-    "expect": "^24.1.0",
+    "expect": "^24.9.0",
     "fs-extra": "^5.0.0",
     "husky": "^0.14.3",
     "lint-staged": "^7.2.0",
